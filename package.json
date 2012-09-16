@@ -1,0 +1,16 @@
+{
+    "name":"weibov2",
+    "description":"改进的nodejs新浪微博SDK",
+    "version":"0.9.0",
+    "keywords":"weibo sina sdk",
+    "contributors":[{
+        "name": "yutou",
+        "email": "xinyu198736@gmail.com"
+    }],
+    "licenses": [{
+        "type": "GPLv2",
+        "url": "http://www.example.com/licenses/gpl.html"
+    }],
+    "repositories":"https://bitbucket.org/xinyu198736/node-weibo2/wiki/Home",
+    "dependencies":[]
+}
