@@ -47,7 +47,7 @@ api.statuses.upload({
 if(error){console.log(" upload error :"+error);return;}
 console.log("upload success")
 })
-<pre>
+</pre>
 
 #授权示例
 以express和weibov2结合来示例：
